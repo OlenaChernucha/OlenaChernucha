@@ -26,6 +26,7 @@ Technologies
 ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=flat&logo=trello&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/GoogleAds-%234285F4?style=flat&logo=googleads&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Looker-%234285F4?style=flat&logo=looker&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/VisualStudioCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=%23000000)
 
 
 
