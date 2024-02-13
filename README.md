@@ -2,9 +2,9 @@
 
 I am JUNIOR DATA ANALYST
 
-I am constantly learning new things
+📚: I am constantly learning new things
 
-My motto: Everything goes when you want it.
+☀️ My motto: Everything goes when you want it.
 
 :mailbox: Reach me out!
 
@@ -21,6 +21,13 @@ Technologies
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=%23A6A9AA)
 ![Static Badge](https://img.shields.io/badge/WIX-%23000000?style=flat&logo=wix&logoColor=%23A6A9AA)
 ![Static Badge](https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=flat&logo=jira&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=flat&logo=trello&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/GoogleAds-%234285F4?style=flat&logo=googleads&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Looker-%234285F4?style=flat&logo=looker&logoColor=%23000000)
+
+
 
 
 
